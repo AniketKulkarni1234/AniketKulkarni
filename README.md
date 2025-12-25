@@ -1,6 +1,6 @@
-# About Me
+
 # 💫 About Me:
-- 👨‍💻 Full Stack Web Developer | MERN Stack<br>- 🎓 3rd Year Computer Science Engineering Student  <br>  Government College of Engineering, Chhatrapati Sambhajinagar<br>- 🧠 Strong interest in Competitive Programming & DSA<br>- ⚡ Love solving algorithmic problems on platforms like LeetCode & CodeChef<br>- 🚀 Open to learning, building & collaborating on real-world projects<br>
+- 👨‍💻 Full Stack Web Developer | MERN Stack<br>- 🎓 3rd Year Computer Science Engineering Student  <br>  Govt.College of Engineering, Chhatrapati Sambhajinagar<br>- 🧠 Strong interest in Competitive Programming & DSA<br>- ⚡ Love solving algorithmic problems on platforms like LeetCode & CodeChef<br>- 🚀 Open to learning, building & collaborating on real-world projects<br>
 
 
 ## 🌐 Socials:
